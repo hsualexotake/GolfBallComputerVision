@@ -1,4 +1,4 @@
-# GolfBallComputerVision
+# Computer Vision and Convolutional Neural Networks for Golf
 
 ## Overview
 
